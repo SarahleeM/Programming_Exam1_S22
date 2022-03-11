@@ -1,0 +1,7 @@
+﻿  imageFileIO.cpp
+  imageOperations.cpp
+  memory.cpp
+C:\Users\101041994\source\repos\csc215s22programs\theExam1\memory.cpp(24,32): error C2660: 'cleanupArray': function does not take 2 arguments
+C:\Users\101041994\source\repos\csc215s22programs\theExam1\netPBM.h(33,6): message : see declaration of 'cleanupArray'
+  theExam1.cpp
+  Generating Code...
